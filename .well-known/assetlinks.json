@@ -1,1 +1,8 @@
-
+[{
+     "relation": ["delegate_permission/common.handle_all_urls"],
+     "target": {
+       "namespace": "android_app",
+       "package_name": "io.github.andykd18.footballengine",
+       "sha256_cert_fingerprints": ["7D:60:2B:53:45:8A:4E:2F:25:00:04:62:BE:A0:74:26:A7:19:BC:A8:5D:61:FA:60:6F:DB:79:12:16:2F:1A:EB"]
+     }
+   }]
